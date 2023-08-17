@@ -20,8 +20,11 @@ ESP32: https://www.amazon.de/dp/B09Z6RLS7R?psc=1&ref=ppx_yo2ov_dt_b_product_deta
 RS232 cable (to upload settings to the stepper): https://www.amazon.de/dp/B00GRP8EZU?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 Power supply 24-50v.
+
 Bolts and nuts for the build.
+
 5mm aluminuim plate for CNC
+
 3d printer
 
 ![DiyActivePedal v1](https://github.com/Bjoes/DIY-Active-pedal-mechanical-design/assets/79850208/b313371c-9262-416d-a131-44fa269f9557)
