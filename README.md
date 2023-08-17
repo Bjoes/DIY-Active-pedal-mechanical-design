@@ -5,7 +5,7 @@ Linear rail: https://www.amazon.de/-/en/dp/B0981XYLRG?ref=ppx_yo2ov_dt_b_product
 
 Bearings 608: https://www.amazon.de/dp/B08PB28G4X?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-Bearing KP08: https://www.amazon.de/dp/B08X6Q6194?psc=1&ref=ppx_yo2ov_dt_b_product_details
+Bearings KP08: https://www.amazon.de/dp/B08X6Q6194?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 400mm 8020 alu extrusion: https://www.amazon.de/dp/B07NKXD7Q4?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
@@ -19,17 +19,25 @@ ESP32: https://www.amazon.de/dp/B09Z6RLS7R?psc=1&ref=ppx_yo2ov_dt_b_product_deta
 
 RS232 cable (to upload settings to the stepper): https://www.amazon.de/dp/B00GRP8EZU?ref=ppx_yo2ov_dt_b_product_details&th=1
 
-Power supply 24-50v.
+Power supply 24-50v:
+https://www.amazon.de/-/en/Transformer-Industrial-Automation-Electronic-Communication/dp/B084TLGTXW/ref=sr_1_7?crid=3304IDW7TTHIW&keywords=36v+350w+powersupply&qid=1692300487&sprefix=36v+350w+powersupply%2Caps%2C89&sr=8-7
 
-Limits switches.
+Limits switches:
+https://www.amazon.de/Hailege-KW12-3-Scooter-Switch-Normally/dp/B07XGJ661V/ref=sr_1_3_sspa?keywords=limit+switch&qid=1692300534&sprefix=limit+sw%2Caps%2C95&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 
-Bolts and nuts for the build.
+Bolts and nuts for the build:
+5x m8x90mm DIN 912
+1x m8x70mm DIN 912
+4x m5x35mm DIN 912
+4x m5x30mm DIN 7991
+6x m8 DIN 1587
+4x m5 DIN 985
+
+Schottky Diode.
 
 5mm aluminuim plate for CNC
 
 3d printer
-
-Schottky Barrier Rectifier Diodes 5A 100V
 
 Brass rods are made in a lathe 12mm -> 8mm. Could use normal 12mm rods intead and modify the 3d printed joints.
 
