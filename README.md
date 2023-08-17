@@ -29,6 +29,10 @@ Bolts and nuts for the build.
 
 3d printer
 
+Schottky Barrier Rectifier Diodes 5A 100V
+
+And probably more.
+
 ![DiyActivePedal v1](https://github.com/Bjoes/DIY-Active-pedal-mechanical-design/assets/79850208/b313371c-9262-416d-a131-44fa269f9557)
 ![IMG_20230816_130550](https://github.com/Bjoes/DIY-Active-pedal-mechanical-design/assets/79850208/0bb7213a-97ee-4779-a56c-ea92cf6e65f3)
 ![IMG_20230817_163651](https://github.com/Bjoes/DIY-Active-pedal-mechanical-design/assets/79850208/d5477364-aacb-488e-863c-68562ebbf802)
