@@ -21,6 +21,8 @@ RS232 cable (to upload settings to the stepper): https://www.amazon.de/dp/B00GRP
 
 Power supply 24-50v.
 
+Limits switches.
+
 Bolts and nuts for the build.
 
 5mm aluminuim plate for CNC
