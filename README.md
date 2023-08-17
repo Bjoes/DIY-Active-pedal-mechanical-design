@@ -33,7 +33,8 @@ Bolts and nuts for the build:
 4x m5x30mm DIN 7991
 6x m8 DIN 1587
 4x m5 DIN 985
-m5 t-nuts: https://www.amazon.de/gp/product/B0C3HDC28Q/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&th=1
+12x m5 t-nuts: https://www.amazon.de/gp/product/B0C3HDC28Q/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&th=1
+12x m5x10
 ```
 
 Schottky Diode.
