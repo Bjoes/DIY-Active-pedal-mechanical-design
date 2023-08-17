@@ -17,7 +17,7 @@ ADS1256: https://www.amazon.de/dp/B0B7799V8W?psc=1&ref=ppx_yo2ov_dt_b_product_de
 
 ESP32: https://www.amazon.de/dp/B09Z6RLS7R?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-RS232 cable (to upload setting to the stepper): https://www.amazon.de/dp/B00GRP8EZU?ref=ppx_yo2ov_dt_b_product_details&th=1
+RS232 cable (to upload settings to the stepper): https://www.amazon.de/dp/B00GRP8EZU?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 Power supply 24-50v.
 Bolts and nuts for the build.
