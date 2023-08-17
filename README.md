@@ -31,7 +31,7 @@ Bolts and nuts for the build.
 
 Schottky Barrier Rectifier Diodes 5A 100V
 
-Brass rods are made in a lathe. Could use normal 12mm rods intead and modify the 3d printed joints.
+Brass rods are made in a lathe 12mm -> 8mm. Could use normal 12mm rods intead and modify the 3d printed joints.
 
 ![DiyActivePedal v1](https://github.com/Bjoes/DIY-Active-pedal-mechanical-design/assets/79850208/b313371c-9262-416d-a131-44fa269f9557)
 ![IMG_20230816_130550](https://github.com/Bjoes/DIY-Active-pedal-mechanical-design/assets/79850208/0bb7213a-97ee-4779-a56c-ea92cf6e65f3)
