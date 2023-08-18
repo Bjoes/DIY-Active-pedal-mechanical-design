@@ -1,5 +1,7 @@
 # DIY Active pedal mechanical design
- Mechanical design based on the active pedal by tjfenwick
+ Mechanical design based on the DIY active pedal by @tjfenwick
+ 
+ Currently actively worked on by @ChrGri
 
 ## Mechanical parts
 
@@ -19,7 +21,7 @@ Closed loop stepper: https://www.amazon.de/dp/B09NBKMZMQ?psc=1&ref=ppx_yo2ov_dt_
 
 3d printer
 
-Brass rods are made in a lathe 12mm -> 8mm thread. Could use normal 12mm rods intead and modify the 3d printed joints.
+Brass rods are made in a lathe 12mm -> 8mm thread. Could use normal 12mm rods instead and modify the 3d printed joints.
 
 ## Bolts and nuts for the build
 ```
